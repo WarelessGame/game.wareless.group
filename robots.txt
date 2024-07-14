@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /static/
+Sitemap: https://game.wareless.group/sitemap/sitemap-0.xml
+Host: https://game.wareless.group

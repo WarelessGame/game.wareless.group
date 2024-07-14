@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwareless_game=self.webpackChunkwareless_game||[]).push([[691],{7200:function(e,l,a){a.r(l);var s=a(7294),t=a(1230),r=a(7903);l.default=()=>s.createElement(t.Z,null,s.createElement(r.Z,{title:"Wareless Game"}),s.createElement("div",null,s.createElement("p",null,"Wareless Group Game Press")))}}]);
+//# sourceMappingURL=component---src-pages-index-tsx-6b4fc898a50a6f067e17.js.map

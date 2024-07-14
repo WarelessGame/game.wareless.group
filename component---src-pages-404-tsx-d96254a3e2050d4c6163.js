@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkwareless_game=self.webpackChunkwareless_game||[]).push([[218],{2513:function(e,t,l){l.r(t);var a=l(7294),n=l(1230),s=l(7903);t.default=()=>a.createElement(n.Z,null,a.createElement(s.Z,{title:"404: Not found"}),a.createElement("h1",null,"404: Not Found"),a.createElement("p",null,"You just hit a route that doesn't exist... the sadness."))}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-d96254a3e2050d4c6163.js.map
